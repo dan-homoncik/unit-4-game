@@ -1,0 +1,41 @@
+body {
+    background: url("../images/qbkls.png");
+}
+
+.crystal-image {
+    height: 200px;
+    width: 150px;
+}
+
+#heading {
+    background-color: powderblue;
+    color: red;
+    width: 250px;
+
+}
+
+#instructions {
+    background-color: beige;
+    color: green;
+    font-weight: bold;
+    width: 450px;
+}
+
+#randomNumberBox {
+    color: purple;
+    background-color: lightseagreen;
+    width: 150px;
+    height: 100px;
+}
+
+#winLossBox {
+    background-color: rgb(52, 241, 241);
+    width: 100px;
+}
+
+#scoreBox {
+    background-color: teal;
+    color: white;
+    width: 150px;
+    height: 100px;
+}
